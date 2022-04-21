@@ -1,0 +1,15 @@
+D:\Patrones de Diseño\Singleton\patronSingleton\patronSingleton\bin\Debug\net6.0\patronSingleton.exe
+D:\Patrones de Diseño\Singleton\patronSingleton\patronSingleton\bin\Debug\net6.0\patronSingleton.deps.json
+D:\Patrones de Diseño\Singleton\patronSingleton\patronSingleton\bin\Debug\net6.0\patronSingleton.runtimeconfig.json
+D:\Patrones de Diseño\Singleton\patronSingleton\patronSingleton\bin\Debug\net6.0\patronSingleton.dll
+D:\Patrones de Diseño\Singleton\patronSingleton\patronSingleton\bin\Debug\net6.0\patronSingleton.pdb
+D:\Patrones de Diseño\Singleton\patronSingleton\patronSingleton\obj\Debug\net6.0\patronSingleton.csproj.AssemblyReference.cache
+D:\Patrones de Diseño\Singleton\patronSingleton\patronSingleton\obj\Debug\net6.0\patronSingleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patrones de Diseño\Singleton\patronSingleton\patronSingleton\obj\Debug\net6.0\patronSingleton.AssemblyInfoInputs.cache
+D:\Patrones de Diseño\Singleton\patronSingleton\patronSingleton\obj\Debug\net6.0\patronSingleton.AssemblyInfo.cs
+D:\Patrones de Diseño\Singleton\patronSingleton\patronSingleton\obj\Debug\net6.0\patronSingleton.csproj.CoreCompileInputs.cache
+D:\Patrones de Diseño\Singleton\patronSingleton\patronSingleton\obj\Debug\net6.0\patronSingleton.dll
+D:\Patrones de Diseño\Singleton\patronSingleton\patronSingleton\obj\Debug\net6.0\refint\patronSingleton.dll
+D:\Patrones de Diseño\Singleton\patronSingleton\patronSingleton\obj\Debug\net6.0\patronSingleton.pdb
+D:\Patrones de Diseño\Singleton\patronSingleton\patronSingleton\obj\Debug\net6.0\patronSingleton.genruntimeconfig.cache
+D:\Patrones de Diseño\Singleton\patronSingleton\patronSingleton\obj\Debug\net6.0\ref\patronSingleton.dll
